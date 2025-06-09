@@ -15,6 +15,7 @@ Using F@cebook as a project to work on C# and React.
 ```sh
 git clone https://github.com/barrett38/fakebook-clone-with-cs
 cd client
+npm install react-router-dom
 npm install
 ```
 
