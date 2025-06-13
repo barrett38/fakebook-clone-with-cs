@@ -1,6 +1,6 @@
 import React from "react";
-import Post from "../Posting/Post";
-import CreatePost from "../CreatePost/CreatePost";
+import Post from "../../components/Posting/Post";
+import CreatePost from "../../components/CreatePost/CreatePost";
 
 function Feed() {
   const dummyPosts = [

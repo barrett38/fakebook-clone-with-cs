@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
-import Login from "./components/Login/Login";
-import Signup from "./components/Signup/Signup";
-import Feed from "./components/Feed/Feed";
-import Profile from "./components/Profile/Profile";
+import Login from "./Pages/Login/Login";
+import Signup from "./Pages/Signup/Signup";
+import Feed from "./Pages/Feed/Feed";
+import Profile from "./Pages/Profile/Profile";
 
 function App() {
   return (
